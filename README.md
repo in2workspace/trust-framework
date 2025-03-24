@@ -1,2 +1,2 @@
-# trust-frmework
+# trust-framework
 Trust Frmework
